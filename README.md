@@ -37,7 +37,7 @@
 
 ## :clapper: Tela(s) <a name="-telas"/></a>
 
-![Tela Empréstimo](https://github.com/ravarmes/javafx-crud-mvc/blob/master/assets/threads-contadoras-java.png)
+![Tela](https://github.com/ravarmes/threads-contadoras-java/blob/master/assets/threads-contadoras-java.png)
 
 ## :link: Links <a name="-links"/></a>
 
